@@ -1,0 +1,114 @@
+body{
+  text-align: center;
+  font-family: Open Sans, sans-serif;
+  background-color: white;
+  color: black;
+  margin: 0px;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: 300;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 0px 20px;
+  color: rgb(166, 2, 172);
+}
+
+h2{
+  color: #f16a97;
+  font-size: 40px;
+}
+
+h3{
+  font-size: 22px;
+  font-style: italic;
+}
+
+p{
+  font-size: 20px;
+  line-height: 1,5;
+  text-align: justify;
+}
+
+.titulo-roxoclaro{
+  color:blueviolet;
+}
+
+.titulo-roxomedio{
+  color:blueviolet;
+}
+
+.titulo-roxoescuro{
+  color:blueviolet;
+}
+
+section{
+  width: 60%;
+  margin: 0 auto;
+}
+
+section section{
+  width: 100%;
+}
+img{
+  width: 100%;
+}
+
+.outras_historias{
+  color: white;
+}
+
+ul{
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+}
+
+a{
+  color: #f3d4ef;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.principal a{
+  
+  color: white;
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+.principal{
+  background-color: rgb(188, 112, 218);
+  width: 100%;
+  margin: 0 auto;
+}
+
+.principal ul li{
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 89px;
+}
+
+label{
+  color: white;
+}
+
+button{
+  background-color: #eeff00;
+  border: solid 1px transparent;
+  padding: 2px 20px;
+  border-radius: 3px;
+}
+
+.outras_mulheres{
+  background-color: rgb(188, 112, 218);
+  width: 80%;
+  padding-bottom: 50px;
+  padding-top: 10px;
+  margin: 50px auto;
+}
+
+h4{
+  color: white;
+}
